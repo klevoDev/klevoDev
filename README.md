@@ -22,3 +22,4 @@
 [![link](./image/telegram.png)](https://t.me/romcha1)
 
 
+вектор и пнг добавить посмотреть
