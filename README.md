@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 
 ## I'm a Beginner FrontEnd Developer
@@ -20,6 +20,3 @@
 ### Connect with me:
 
 [![link](./image/telegram.png)](https://t.me/romcha1)
-
-
-вектор и пнг добавить посмотреть
