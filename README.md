@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=klevoDev)
+
 
 ## I'm a Beginner FrontEnd Developer
 - 👨‍💻 I like to write code
