@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=klevoDev)
 
 
-## I'm a Beginner FrontEnd Developer
+## I'm a FrontEnd Developer
 - 👨‍💻 I like to write code
 - 🏃‍♂️ I love running (personal record 10 km in 1 hour 30 min 🐌)
 - 🙃 I am constantly learning something new
